@@ -589,6 +589,8 @@ elements of a def* forms."
 (put 'defvar 'clojure-doc-string-elt 3)
 (put 'defvar- 'clojure-doc-string-elt 3)
 
+(put 'ns 'clojure-doc-string-elt 2)
+
 
 
 (defun clojure-forward-sexp (n)
