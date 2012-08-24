@@ -771,7 +771,7 @@ use (put-clojure-indent 'some-symbol 'defun)."
   (bound-fn 'defun)
   (if 1)
   (if-not 1)
-  (case 1)
+  (case 2)
   (condp 2)
   (when 1)
   (while 1)
